@@ -109,6 +109,7 @@ import VirtualScroller from 'primevue/virtualscroller';
 import BlockViewer from '@/components/BlockViewer.vue';
 
 import '@/assets/styles.scss';
+import '@/assets/theme.css';
 
 const app = createApp(App);
 
