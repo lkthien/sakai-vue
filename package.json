@@ -5,6 +5,7 @@
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview",
+        "sass-watch": "sass --watch src/assets/themes/fluent/fluent-light/theme.scss src/assets/theme.css",
         "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
     },
     "dependencies": {
